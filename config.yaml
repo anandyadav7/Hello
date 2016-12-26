@@ -8,4 +8,3 @@ baseurl: "http://anandyadav7.github.io/Hello/"
 title: "Hello Welcome"
 canonifyurls: True
 theme: "phugo"
-...
