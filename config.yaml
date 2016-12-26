@@ -6,6 +6,6 @@ indexes:
   category: "categories"
 baseurl: "http://anandyadav7.github.io/Hello"
 title: "Hugo Blog Template for GitHub Pages"
-canonifyurls: true
+canonifyurls: false
 theme: "Lanyon"
 ...
