@@ -4,7 +4,7 @@ layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "categories"
-baseurl: "http://anandyadav7.github.io/Hello/"
+baseurl: "http://anandyadav7.github.io/"
 title: "Hello Welcome"
 canonifyurls: True
 theme: "phugo"
